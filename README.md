@@ -60,3 +60,9 @@ open up localhost:
 - Flask
 - GPT
 - Pinecone
+
+
+### Demo Images
+<img src="C:\Users\Anil Prajapati\Desktop\Projects\Medical-Chatbot\medical_chatbot.egg-info" alt="Demo" width="400">
+<img src="C:\Users\Anil Prajapati\Desktop\Projects\Medical-Chatbot\Images\Screenshot 2026-06-02 120917.png" alt="Demo" width="400">
+<img src="C:\Users\Anil Prajapati\Desktop\Projects\Medical-Chatbot\Images\Screenshot 2026-06-02 120929.png" alt="Demo" width="400">
