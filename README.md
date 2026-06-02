@@ -1,5 +1,9 @@
 # Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask
 
+# Project Overview
+This project demonstrates how to build a complete end-to-end Medical Chatbot powered by Generative AI. This chatbot is capable of understanding medical queries, retrieving relevant information, and generating intelligent, context-aware responses in real time.
+It integrates Large Language Models (LLMs) with LangChain for orchestration, Pinecone for vector search, Flask for backend deployment, and AWS for scalable hosting.
+
 # How to run?
 ### STEPS:
 
